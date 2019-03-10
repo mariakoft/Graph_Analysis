@@ -13,6 +13,6 @@ Graph 2: General Relativity and Quantum Cosmology (https://snap.stanford.edu/dat
 
 Graph 3: Erdos 02 (http://networkdata.ics.uci.edu/netdata/html/Erdos02.html)
 
-Graphn 4:Graph of national trade relations (Social network Analysis: Appredix B (pg.738-739) Stanley Wasserman, University of Illinois, Urbana-Champaign , Katherine Faust, University of South Carolina)
+Graph 4:Graph of national trade relations (Social network Analysis: Appredix B (pg.738-739) Stanley Wasserman, University of Illinois, Urbana-Champaign , Katherine Faust, University of South Carolina)
 
 Graph 5: Meta-knowledge network
